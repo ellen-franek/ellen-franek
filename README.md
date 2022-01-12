@@ -1,6 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Trabalhando atualmente como Desenvolvedora Full Stack
+- Desenvolvedora de projetos web e dispositivos móveis, tendo em destaque trabalho de soluções para grandes empresas do ramo alimentício como Federzoni, Habib’s, Natural da Terra, Makro, Ragazzo e Semar.
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen-franek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,5 +29,21 @@
   
   ##
   
+  ### Sistemas web desenvolvidos ! 💻
+  
+  https://betelassessoria.com.br
+  https://www.rotadomar.com.br
+  https://www.usetass.com.br
+  https://pernambucoconstrutora.com.br
+  https://www.meusoftminhavida.com.br
+  https://www.hospitalsantaefigenia.com.br
+  
+  
+
+  
+  ##
+  
   <div> 
   <a href="https://www.linkedin.com/in/ellen-franek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+    
