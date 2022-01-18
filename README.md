@@ -28,27 +28,7 @@
 </div>
   
   ##
-  
-  ### Sistemas web desenvolvidos ! 💻
-  
-  https://betelassessoria.com.br
-  <br>
-  https://www.rotadomar.com.br
-  <br>
-  https://www.usetass.com.br
-  <br>
-  https://pernambucoconstrutora.com.br
-  <br>
-  https://www.meusoftminhavida.com.br
-  <br>
-  https://www.hospitalsantaefigenia.com.br
-  <br>
-  https://insole.com.br
-  <br>
-  http://www.evolucaocc.com.br
-  
-  ##
-  
+ 
   <div> 
   <a href="https://www.linkedin.com/in/ellen-franek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
